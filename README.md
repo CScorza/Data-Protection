@@ -182,5 +182,5 @@ Livelli di anonimato:
 - [Il Sole 24Ore - Le Guide Finanza Digitale N.03 Privacy](https://u.pcloud.link/publink/show?code=XZsbUjVZ3gYIzreGyLSYYHnNlRWhwQAs7o7k)
 - [Guida Frodi bancarie](https://www.chebanca.it/wcm/connect/public/577f6902-a49f-40db-80af-bf1d2e0905dd/GuidaFrodibancarie.pdf?MOD=AJPERES)
 - [httplab - The password](https://httplab.it/ThePwd)
-- [WinMegazine N°297 - Novembre 2022]([Instagram hackerato .pdf](https://github.com/CScorza/Protezione-dati-personali/files/9870325/Instagram.hackerato.pdf)
-
+- [WinMegazine N°297 - Novembre 2022 - Instagram hackerato .pdf](https://github.com/CScorza/Protezione-dati-personali/files/9870325/Instagram.hackerato.pdf)
+- [GDPR](https://www.garanteprivacy.it/regolamentoue)

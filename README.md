@@ -1,4 +1,4 @@
-# Protezione dei propri dati personali 
+# Data Protection - Protezione dei Dati Personali
 
 |![Phishing-cosè-620x378](https://user-images.githubusercontent.com/98583912/197875300-1c13d962-2523-450e-8fe3-baca1be36051.jpg)|![gdpr_dati-min](https://user-images.githubusercontent.com/98583912/198056191-767370ec-17ee-4bec-9756-63e5645a287d.jpg)|
 | :--- | :--- |

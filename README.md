@@ -10,34 +10,33 @@ Indice
 # Cookie
 ```
 Accettare a No?
-  - I cookie sono una piccola porzione di dati degli utenti raccolti dal sito Web che stiamo visitando, 
+- I cookie sono una piccola porzione di dati degli utenti raccolti dal sito Web che stiamo visitando, 
   in teoria sono memorizzati all’interno del nostro computer e poi utilizzati per migliorare la nostra esperienza d’uso sito che stiamo visualizando. 
   Con questo scambio di informazioni, allora volta successiva in cui l'utente visita il sito, 
   lo stesso si setterà secondo l'esperienza d'uso dell'utente e quindi in base ai click.
 
-- I cookie si distinguono in più tipologie: 
+I cookie si distinguono in più tipologie: 
 - Quelli di prima parte, salvati dal sito web che visitiamo e da nessun’altra piattaforma;
 - Terze parti che invece vengono trasmessi a siti diversi rispetto a quelli da noi visitati e di cui il piu' delle volte sconosciamo a chi vengono trasmessi; 
 - I “Cookie di Sessione”, che permettono di ricordare l’identità del dispositivo da cui accediamo alla pagina d’interesse fino al termine della sessione in corso; 
 - I “cookie persistenti”, ovvero quelli quasi permanenti che vengono salvati principalmente dai siti di e-commerce quando, per esempio, aggiungiamo un articolo al carrello.
 Nota importante,
-Ognuno dei siti che raccoglie queste informazioni è costretto per legge a chiedere all’utente il consenso per il trattamento dei cookie, 
-fornendo anche dettagli riguardo il loro utilizzo e dando la possibilità di scegliere 
-quali informazioni condividere e quali no, fornendo anche informazioni sulle terze parti con cui verranno condivisi tali dati.
+  Ognuno dei siti che raccoglie queste informazioni è costretto per legge a chiedere all’utente il consenso per il trattamento dei cookie, 
+  fornendo anche dettagli riguardo il loro utilizzo e dando la possibilità di scegliere 
+  quali informazioni condividere e quali no, fornendo anche informazioni sulle terze parti con cui verranno condivisi tali dati.
 ```
 
 ### Strumenti come bloccare i Cookie
-- Dal Browser 
+- Dalle impostazioni Browser dal PC
 ![Browser](https://user-images.githubusercontent.com/98583912/197959630-86989c15-3a2c-4822-a2c8-fd1b496b3d86.png)
-- Dall'Applicazione dello Smartphone
+- Dall'impostazione dell'pplicazione dello Smartphone
 ![Smartphone](https://user-images.githubusercontent.com/98583912/197959654-d2b26099-c67f-4429-a607-3bde99dc4823.png)
 
 ### Estensioni dai Browser
-
-- [Google Chrome - disable-cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang?hl=it)
-- [Google Chrome - I don't care about Cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
-- [FireFox - I don't care about Cookies](https://addons.mozilla.org/it/firefox/addon/i-dont-care-about-cookies/)
-- [FireFox - Cookie AutoDelete](https://addons.mozilla.org/it/firefox/addon/cookie-autodelete/)
+|Google Chrome | FireFox|
+| :---: | :---: |
+|[Google Chrome - disable-cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang?hl=it)|[FireFox - I don't care about Cookies](https://addons.mozilla.org/it/firefox/addon/i-dont-care-about-cookies/)|
+|[Google Chrome - I don't care about Cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)|[FireFox - Cookie AutoDelete](https://addons.mozilla.org/it/firefox/addon/cookie-autodelete/)|
 
 # Phishing 
 ```
@@ -50,6 +49,8 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 
 ## SMS
 ![SMS](https://user-images.githubusercontent.com/98583912/197875975-26035274-9409-4611-a0ac-74b3b1a7b56b.jpeg)
+- Consigli 
+- Verifiche prima di cliccare nel link. 
 
 ## Instragram 
 ![instagram](https://user-images.githubusercontent.com/98583912/197876001-bb48a403-9428-4637-a2a2-d588f5417d1c.jpeg)
@@ -59,10 +60,50 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 
 ### Strumenti di Verifica
 - Quando ci troviamo di fronte a dei casi simili è bene fare delle verifiche, prima di rilasciare informazioni personali o dati sensibili.
+#### Verifiche d'instrusione Accaunt Social 
+- Prevenzione del proprio Accaunt
+  - Utilizzare una password diversa per ogni tipo di accaunt social con le seguenti caratteristiche:
+
+|1)|Minimo di 8 caratteri per la lunghezza della vostra password, l'ideale sarebbe una lunghezza di almeno dieci (10) o dodici (12) caratteri;|
+| :--- | :--- |
+|2)|Mix di caratteri alfanumerici, ovvero tutti quei caratteri compresi fra "a" e "z" e fra "0" e "9"|
+|3)|Caratteri MAIUSCOLI e minuscoli es: A/a, B/b,...Z/z che tutti quei caratteri considerati "speciali" come, "$ % & ( @ # § = ) , : ; - _ + ^";|
+|4)|NON Utilizzare, parole che vi identificano facilmente quali per esempio: il nome o il cognome, vostro, di vostra moglie o dei vostri cari; date, etc|
+|5)|NON utilizzare, parole ovvie come ad esempio: password, pippo, pluto, 123456, qwerty, pussy, 696969, mustang, etc...|
+|6)|Cercare di NON utilizzare parole reali, eventualmente sostituite le lettere con il loro"uguale" numerico, come ad esempio la parola "pessimista" potrebbe diventare "p355im1stA" ancora meglio se si aggiungono caratteri speciali "P3S5!m1ST@"|
+|7)|Un'altro metodo per creare una password facilmente ricordabile, è quello di pensare per esempio al film preferito ed utilizzarne una frase famosa, come: "domani è un altro giorno e si vedrà" prendendo le lettere iniziali e/o finali di ogni singola parola, per costruire la password es:"DièUnaOGesiVà" o ancora meglio "D13'Un@OGe5iV@'"|
+|8)|Cambiare regolarmente la password per lo meno quelle di importanza strategica, il cambio andrebbe effettuato, almeno una volta ogni 2 o tre mesi.|
+|9)|ASSOLUTAMENTE EVITARE di utilizzare sempre la medesima password per tutte le innumerevoli richieste di accesso, sia esse al lavoro che a casa.|
+|10)|Se avete l'abitudine di tenere una traccia scritta delle vostre password, assicuratevi che tale traccia sia conservata lontano da occhi indiscreti e al sicuro.| |11)|Evitate di scrivere le password sul cellulare o nel classico foglietto sulla scrivania dell'ufficio, o all'interno del portafogli.|
+
+- Riconquistare l'Accaunt
+  - Una volta capito che l'accaunt e' stato violato, seguire i seguenti passaggi (Es. Instagram):
+
+|![instagram](https://user-images.githubusercontent.com/98583912/198043233-e07e053c-eeca-41a5-bed8-2e1f059f003a.gif)|Primo Step|Secondo Step|
+| :--- | :--- | :--- |
+|1|Accedi al tuo profilo Instagrma|Dalla pagina di Login, clicca "Ricevi Assistenza con l'Accesso"|
+|2|Vai sulle Impostazioni|Inserire "Nome Utente" e andare su "Avanti"|
+|3|Vai su Sicurezza|Clicca invia SMS (se ricevi l'sms, significa che non e' stato cambiato il numero, quindi puoi iniziare la procedura di cambio password)|
+|4|Attività di accesso (per controllare l'anomalie tra i dispisitivi)|In alternativa, se non arriva l'sms, Clicca su "Hai bisogno di ulteriore assistenza?"|
+|5|Se trovi un dispositivo sconosciuto Eliminalo|Inserirsci primo numero di telefono o email usati per accedere ad instagram.|
+|6|Esci per salvare l'impostazione e scollegare eventuale intruso.||
+||![Insta1](https://user-images.githubusercontent.com/98583912/198029795-0ef7fc5f-3429-4c84-8632-12bbacbca63b.png)|![Insta2](https://user-images.githubusercontent.com/98583912/198030373-58b16ca2-eb59-498f-99f5-1bb8ffa070e5.png)
+|
+- Ulteriori info
+  -  [Assistenza Instagram](https://help.instagram.com/368191326593075/?helpref=search&query=account%20violato&search_session_id=a0fba369aafcd5da203117744ad39180&sr=4)
+  -  [Assistenza Facebook](https://www.facebook.com/help)
+  -  [Assistenza TikTok](https://support.tiktok.com/it/)
+  -  [Assistenza Linledin](https://www.linkedin.com/help/linkedin/answer/a515753/contatta-il-servizio-clienti-di-linkedin?lang=it)
+  -  [Assistenza WhatsApp](https://faq.whatsapp.com/690494414810591/?locale=it_IT)
+  -  [Assistenza Telegram](https://telegram.org/support?setln=it)
+
 #### Verifica Email
 - [Emailrep - Simple Email Reputation](https://emailrep.io/)
 - [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
 - [Getnotify - Tracking Service](https://www.getnotify.com/)
+
+![Email](https://user-images.githubusercontent.com/98583912/198024973-71d8cf99-2c64-4dfc-8585-c690abd6ab26.jpg)
+
 #### Verifica Dominio IP 
 ![IP](https://user-images.githubusercontent.com/98583912/197974552-6abe33f6-511f-4734-ac00-da9bda9e576d.png)
 | [BuiltWith](http://builtwith.com/) |[Intelx](https://intelx.io/) |  [Whois.net](http://whois.net/) | [Whois.domaintools](https://whois.domaintools.com/) |
@@ -114,6 +155,16 @@ Livelli di anonimato:
 
 ![Immagine10](https://user-images.githubusercontent.com/98583912/198006472-d5ceada0-9892-41ec-9a06-96cfb43ae565.gif)
 
+# Messaggistica Sicura
+|![Telegram](https://user-images.githubusercontent.com/98583912/198037994-8c75e623-b981-4721-a3a5-583c30f5aa8d.gif)|[Telegram](https://web.telegram.org/?legacy=1#/login)|![Wickr](https://user-images.githubusercontent.com/98583912/198038627-20ac6310-e7c0-4332-921c-1508729934d9.gif)|[Wickr](https://wickr.com/)|
+| :---: | :---: | :---: | :---: |
+|![Signal](https://user-images.githubusercontent.com/98583912/198038535-affb424e-06fa-449e-9c5a-6c1eecdf89a3.gif)|[Signal](https://signal.org/it/)|![Confide](https://user-images.githubusercontent.com/98583912/198038655-ae1df5e6-abc2-4ec8-93e5-c12fb943e554.gif)|[Confide](https://getconfide.com/)|
+|![Wire](https://user-images.githubusercontent.com/98583912/198038571-f4ed33cc-7ca1-4b0b-83b1-4c8f67c0a0f8.gif)|[Wire](https://wire.com/en/)|![Silent Phone](https://user-images.githubusercontent.com/98583912/198038675-77794fe6-14ef-4c17-85a9-72e98c6a681d.gif)|[Silent Phone](https://www.silentcircle.com/products-and-solutions/silent-phone/)|
+|![theema](https://user-images.githubusercontent.com/98583912/198038596-befe357f-9b08-402e-82e0-0bb379bcc12b.gif)|[Threema](https://threema.ch/en)|![Viber](https://user-images.githubusercontent.com/98583912/198038741-1cec9c9e-3fc5-455d-b91d-486c6f7b6754.gif)|[Viber](https://www.viber.com/it/)|
+
+
+
 # Fonti di studio
 - [Il Sole 24Ore - Le Guide Finanza Digitale N.03 Privacy](https://u.pcloud.link/publink/show?code=XZsbUjVZ3gYIzreGyLSYYHnNlRWhwQAs7o7k)
 - [Guida Frodi bancarie](https://www.chebanca.it/wcm/connect/public/577f6902-a49f-40db-80af-bf1d2e0905dd/GuidaFrodibancarie.pdf?MOD=AJPERES)
+- [httplab - The password](https://httplab.it/ThePwd)

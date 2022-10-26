@@ -1,10 +1,15 @@
 # Protezione dei propri dati personali 
-![Phishing-cosè-620x378](https://user-images.githubusercontent.com/98583912/197875300-1c13d962-2523-450e-8fe3-baca1be36051.jpg)
+
+|![Phishing-cosè-620x378](https://user-images.githubusercontent.com/98583912/197875300-1c13d962-2523-450e-8fe3-baca1be36051.jpg)|![gdpr_dati-min](https://user-images.githubusercontent.com/98583912/198056191-767370ec-17ee-4bec-9756-63e5645a287d.jpg)|
+| :--- | :--- |
 
 Indice  
 - [Cookie](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#cookie)
 - [Phishing](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#phishing)
+- [Messaggi che possono trarre in inganno](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#messaggi-che-possono-trarre-in-inganno)
+- [Altri strumenti utili](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#altri-strumenti-utili)
 - [Rendersi Anonimi nel WEB](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#rendersi-anonimi-nel-web)
+- [Messaggistica Sicura](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#messaggistica-sicura)
 - [Fonti](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#fonti-di-studio)
 
 # Cookie
@@ -35,8 +40,8 @@ Nota importante,
 ### Estensioni dai Browser
 |Google Chrome | FireFox|
 | :---: | :---: |
-|[Google Chrome - disable-cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang?hl=it)|[FireFox - I don't care about Cookies](https://addons.mozilla.org/it/firefox/addon/i-dont-care-about-cookies/)|
-|[Google Chrome - I don't care about Cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)|[FireFox - Cookie AutoDelete](https://addons.mozilla.org/it/firefox/addon/cookie-autodelete/)|
+|[Disable Cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang?hl=it)|[I don't care about Cookies](https://addons.mozilla.org/it/firefox/addon/i-dont-care-about-cookies/)|
+|[I don't care about Cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)|[Cookie AutoDelete](https://addons.mozilla.org/it/firefox/addon/cookie-autodelete/)|
 
 # Phishing 
 ```
@@ -50,13 +55,19 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 ## SMS
 ![SMS](https://user-images.githubusercontent.com/98583912/197875975-26035274-9409-4611-a0ac-74b3b1a7b56b.jpeg)
 - Consigli 
-- Verifiche prima di cliccare nel link. 
+- Verifiche prima di cliccare nel link dalle fonti ufficiali (Banca, Servizio Postale, etc.)
 
 ## Instragram 
 ![instagram](https://user-images.githubusercontent.com/98583912/197876001-bb48a403-9428-4637-a2a2-d588f5417d1c.jpeg)
+- Verificare che la persona che ci chiede aiuto sia realmente lui, chiamandolo al telefono.
+- [Verifiche d'instrusione Accaunt Social](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifiche-dinstrusione-accaunt-social)
 
 ## Email
 ![107797_7bfcd5n](https://user-images.githubusercontent.com/98583912/197877890-24c156c6-5c7f-46ec-b1ce-526c79130dec.jpg)
+- Ricordando che normalmente nessun Ente pubblico e privato, chiede informazioni personali tramite email e quindi verificare sempre dalle fonti ufficiali.
+- [Verifica Email](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-email)
+- [Verifica Dominio IP](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-dominio-ip)
+- [Verifica FIle](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-file)
 
 ### Strumenti di Verifica
 - Quando ci troviamo di fronte a dei casi simili è bene fare delle verifiche, prima di rilasciare informazioni personali o dati sensibili.
@@ -114,13 +125,16 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 |[Website.informer](http://website.informer.com/) |[Sitereport.netcraft](https://sitereport.netcraft.com/)|[Whoxy](https://www.whoxy.com/)|
 |[Whois.com](http://whois.com/) |[Spyonweb](https://spyonweb.com/)|
 
+#### Verifica FIle
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
+### Altri strumenti utili
+
 #### Verifica codici Bancari
 |IBAN|Conto Corrente|Codice Banca|
 | :---: | :---: | :---: |
 |[Verifica IBAN](https://it.ibancalculator.com/iban_validieren.html)|[Verifica un conto corrente](https://it.ibancalculator.com/validate_account_no.html)|[Ricerca un codice banca o BIC](https://it.ibancalculator.com/blz.html)|
 
-#### Verifica FIle
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 # Rendersi Anonimi nel WEB
 
@@ -155,16 +169,18 @@ Livelli di anonimato:
 
 ![Immagine10](https://user-images.githubusercontent.com/98583912/198006472-d5ceada0-9892-41ec-9a06-96cfb43ae565.gif)
 
-# Messaggistica Sicura
+# Messaggistica ed Email Sicuri Sicura
 |![Telegram](https://user-images.githubusercontent.com/98583912/198037994-8c75e623-b981-4721-a3a5-583c30f5aa8d.gif)|[Telegram](https://web.telegram.org/?legacy=1#/login)|![Wickr](https://user-images.githubusercontent.com/98583912/198038627-20ac6310-e7c0-4332-921c-1508729934d9.gif)|[Wickr](https://wickr.com/)|
 | :---: | :---: | :---: | :---: |
 |![Signal](https://user-images.githubusercontent.com/98583912/198038535-affb424e-06fa-449e-9c5a-6c1eecdf89a3.gif)|[Signal](https://signal.org/it/)|![Confide](https://user-images.githubusercontent.com/98583912/198038655-ae1df5e6-abc2-4ec8-93e5-c12fb943e554.gif)|[Confide](https://getconfide.com/)|
 |![Wire](https://user-images.githubusercontent.com/98583912/198038571-f4ed33cc-7ca1-4b0b-83b1-4c8f67c0a0f8.gif)|[Wire](https://wire.com/en/)|![Silent Phone](https://user-images.githubusercontent.com/98583912/198038675-77794fe6-14ef-4c17-85a9-72e98c6a681d.gif)|[Silent Phone](https://www.silentcircle.com/products-and-solutions/silent-phone/)|
 |![theema](https://user-images.githubusercontent.com/98583912/198038596-befe357f-9b08-402e-82e0-0bb379bcc12b.gif)|[Threema](https://threema.ch/en)|![Viber](https://user-images.githubusercontent.com/98583912/198038741-1cec9c9e-3fc5-455d-b91d-486c6f7b6754.gif)|[Viber](https://www.viber.com/it/)|
-
+|![Immagine27](https://user-images.githubusercontent.com/98583912/198049199-91f994bd-9c4e-4528-989b-48326bd58842.gif)|[ProtonMail](https://proton.me/it/mail)|
 
 
 # Fonti di studio
 - [Il Sole 24Ore - Le Guide Finanza Digitale N.03 Privacy](https://u.pcloud.link/publink/show?code=XZsbUjVZ3gYIzreGyLSYYHnNlRWhwQAs7o7k)
 - [Guida Frodi bancarie](https://www.chebanca.it/wcm/connect/public/577f6902-a49f-40db-80af-bf1d2e0905dd/GuidaFrodibancarie.pdf?MOD=AJPERES)
 - [httplab - The password](https://httplab.it/ThePwd)
+- [WinMegazine N°297 - Novembre 2022]([Instagram hackerato .pdf](https://github.com/CScorza/Protezione-dati-personali/files/9870325/Instagram.hackerato.pdf)
+

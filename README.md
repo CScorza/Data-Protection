@@ -30,6 +30,7 @@ Nota importante,
   fornendo anche dettagli riguardo il loro utilizzo e dando la possibilità di scegliere 
   quali informazioni condividere e quali no, fornendo anche informazioni sulle terze parti con cui verranno condivisi tali dati.
 ```
+![Immagine2](https://user-images.githubusercontent.com/98583912/198237059-c5fb695b-0a86-44ce-989e-22bb1b4e18df.gif)
 
 ### Strumenti come bloccare i Cookie
 - Dalle impostazioni Browser dal PC
@@ -53,7 +54,8 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 # Messaggi che possono trarre in inganno 
 
 ## SMS
-![SMS](https://user-images.githubusercontent.com/98583912/197875975-26035274-9409-4611-a0ac-74b3b1a7b56b.jpeg)
+|![SMS](https://user-images.githubusercontent.com/98583912/197875975-26035274-9409-4611-a0ac-74b3b1a7b56b.jpeg)|![Senza titolo](https://user-images.githubusercontent.com/98583912/198233072-7d9ba437-84ed-4d5c-ba6e-6f88509994fc.jpg)|
+| :---: | :---: |
 - Consigli 
 - Verifiche prima di cliccare nel link dalle fonti ufficiali (Banca, Servizio Postale, etc.)
 
@@ -63,7 +65,7 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 - [Verifiche d'instrusione Accaunt Social](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifiche-dinstrusione-accaunt-social)
 
 ## Email
-![107797_7bfcd5n](https://user-images.githubusercontent.com/98583912/197877890-24c156c6-5c7f-46ec-b1ce-526c79130dec.jpg)
+![Immagine1](https://user-images.githubusercontent.com/98583912/198234928-b9d1600b-3706-4e21-894f-dc3124856650.gif)
 - Ricordando che normalmente nessun Ente pubblico e privato, chiede informazioni personali tramite email e quindi verificare sempre dalle fonti ufficiali.
 - [Verifica Email](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-email)
 - [Verifica Dominio IP](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-dominio-ip)

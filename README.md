@@ -119,8 +119,9 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 
 #### Verifica Dominio IP 
 ![IP](https://user-images.githubusercontent.com/98583912/197974552-6abe33f6-511f-4734-ac00-da9bda9e576d.png)
-| [BuiltWith](http://builtwith.com/) |[Intelx](https://intelx.io/) |  [Whois.net](http://whois.net/) | [Whois.domaintools](https://whois.domaintools.com/) |
+|Siti e Strumenti di Verifica ||||
 | :---: | :---: | :---: | :---: |
+| [BuiltWith](http://builtwith.com/) |[Intelx](https://intelx.io/) |  [Whois.net](http://whois.net/) | [Whois.domaintools](https://whois.domaintools.com/) |
 |[Follow](http://follow.net/) |[Researchtools](https://moz.com/researchtools/ose)|[Whoishostingthis](http://www.whoishostingthis.com/) |[Whoisology](https://whoisology.com/)|
 |[Greynoise](http://greynoise.io/) |[Securitytrails](https://securitytrails.com/dns-trails)|[Domainbigdata](https://domainbigdata.com/) |[Alexa](https://www.alexa.com/)|
 |[Webmeup](http://webmeup.com/) |[Shodan](https://www.shodan.io/)|[Clearwebstats](https://www.clearwebstats.com/) |[Ripe.net](https://www.ripe.net/manage-ips-and-asns/db)|

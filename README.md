@@ -1,9 +1,6 @@
-# Data Protection - Protezione dei Dati Personali
+![Immagine12](https://user-images.githubusercontent.com/98583912/199347592-8dde4e1c-d8c1-4c75-95ed-62598d9bf74d.gif)
 
-|![Phishing-cosè-620x378](https://user-images.githubusercontent.com/98583912/197875300-1c13d962-2523-450e-8fe3-baca1be36051.jpg)|![gdpr_dati-min](https://user-images.githubusercontent.com/98583912/198056191-767370ec-17ee-4bec-9756-63e5645a287d.jpg)|
-| :--- | :--- |
-
-Indice  
+# Indice  
 - [Cookie](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#cookie)
 - [Phishing](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#phishing)
 - [Messaggi che possono trarre in inganno](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#messaggi-che-possono-trarre-in-inganno)
@@ -11,6 +8,9 @@ Indice
 - [Rendersi Anonimi nel WEB](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#rendersi-anonimi-nel-web)
 - [Messaggistica Sicura](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#messaggistica-sicura)
 - [Fonti](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#fonti-di-studio)
+
+|![gdpr_dati-min](https://user-images.githubusercontent.com/98583912/198056191-767370ec-17ee-4bec-9756-63e5645a287d.jpg)|![Phishing-cosè-620x378](https://user-images.githubusercontent.com/98583912/197875300-1c13d962-2523-450e-8fe3-baca1be36051.jpg)|
+| :--- | :--- |
 
 # Cookie
 ```
@@ -100,8 +100,7 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 |4|Attività di accesso (per controllare l'anomalie tra i dispisitivi)|In alternativa, se non arriva l'sms, Clicca su "Hai bisogno di ulteriore assistenza?"|
 |5|Se trovi un dispositivo sconosciuto Eliminalo|Inserirsci primo numero di telefono o email usati per accedere ad instagram.|
 |6|Esci per salvare l'impostazione e scollegare eventuale intruso.||
-||![Insta1](https://user-images.githubusercontent.com/98583912/198029795-0ef7fc5f-3429-4c84-8632-12bbacbca63b.png)|![Insta2](https://user-images.githubusercontent.com/98583912/198030373-58b16ca2-eb59-498f-99f5-1bb8ffa070e5.png)
-|
+||![Insta1](https://user-images.githubusercontent.com/98583912/198029795-0ef7fc5f-3429-4c84-8632-12bbacbca63b.png)|![Insta2](https://user-images.githubusercontent.com/98583912/198030373-58b16ca2-eb59-498f-99f5-1bb8ffa070e5.png)|
 - Ulteriori info
   -  [Assistenza Instagram](https://help.instagram.com/368191326593075/?helpref=search&query=account%20violato&search_session_id=a0fba369aafcd5da203117744ad39180&sr=4)
   -  [Assistenza Facebook](https://www.facebook.com/help)

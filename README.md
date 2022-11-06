@@ -35,7 +35,7 @@ Nota importante,
 ### Strumenti come bloccare i Cookie
 - Dalle impostazioni Browser dal PC
 ![Browser](https://user-images.githubusercontent.com/98583912/197959630-86989c15-3a2c-4822-a2c8-fd1b496b3d86.png)
-- Dall'impostazione dell'pplicazione dello Smartphone
+- Dall'impostazione dell'applicazione dello Smartphone
 ![Smartphone](https://user-images.githubusercontent.com/98583912/197959654-d2b26099-c67f-4429-a607-3bde99dc4823.png)
 
 ### Estensioni dai Browser
@@ -73,6 +73,11 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 
 ### Strumenti di Verifica
 - Quando ci troviamo di fronte a dei casi simili è bene fare delle verifiche, prima di rilasciare informazioni personali o dati sensibili.
+   - [VirusTotal](https://www.virustotal.com/gui/home/upload)
+   - Strumento di Verifica URL - FILE - Ricerca Domini IP
+- Controlla se la tua email o il tuo numero di telefono hanno subito una violazione di dati
+   - [Have i Been Pwned?](https://haveibeenpwned.com/)
+
 #### Verifiche d'instrusione Accaunt Social 
 - Prevenzione del proprio Accaunt
   - Utilizzare una password diversa per ogni tipo di accaunt social con le seguenti caratteristiche:
@@ -126,9 +131,6 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 |[Webmeup](http://webmeup.com/) |[Shodan](https://www.shodan.io/)|[Clearwebstats](https://www.clearwebstats.com/) |[Ripe.net](https://www.ripe.net/manage-ips-and-asns/db)|
 |[Website.informer](http://website.informer.com/) |[Sitereport.netcraft](https://sitereport.netcraft.com/)|[Whoxy](https://www.whoxy.com/)|
 |[Whois.com](http://whois.com/) |[Spyonweb](https://spyonweb.com/)|
-
-#### Verifica FIle
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ### Altri strumenti utili
 

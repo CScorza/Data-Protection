@@ -5,7 +5,7 @@
 - [Phishing](https://github.com/CScorza/Data-Protection#phishing)
 - [Messaggi che possono trarre in inganno](https://github.com/CScorza/Data-Protection##messaggi-che-possono-trarre-in-inganno)
 - [Altri strumenti utili](https://github.com/CScorza/Data-Protection##altri-strumenti-utili)
-- [Rendersi Anonimi nel WEB](https://github.com/CScorza/Data-Protection##rendersi-anonimi-nel-web)
+- [Rendersi Anonimi nel WEB](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)
 - [Messaggistica Sicura](https://github.com/CScorza/Data-Protection##messaggistica-sicura)
 - [Fonti](https://github.com/CScorza/Data-Protection##fonti-di-studio)
 

@@ -1,13 +1,13 @@
 ![Immagine12](https://user-images.githubusercontent.com/98583912/199347592-8dde4e1c-d8c1-4c75-95ed-62598d9bf74d.gif)
 
 # Indice  
-- [Cookie](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#cookie)
-- [Phishing](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#phishing)
-- [Messaggi che possono trarre in inganno](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#messaggi-che-possono-trarre-in-inganno)
-- [Altri strumenti utili](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#altri-strumenti-utili)
-- [Rendersi Anonimi nel WEB](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#rendersi-anonimi-nel-web)
-- [Messaggistica Sicura](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#messaggistica-sicura)
-- [Fonti](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#fonti-di-studio)
+- [Cookie](https://github.com/CScorza/Data-Protection#cookie)
+- [Phishing](https://github.com/CScorza/Data-Protection#phishing)
+- [Messaggi che possono trarre in inganno](https://github.com/CScorza/Data-Protection##messaggi-che-possono-trarre-in-inganno)
+- [Altri strumenti utili](https://github.com/CScorza/Data-Protection##altri-strumenti-utili)
+- [Rendersi Anonimi nel WEB](https://github.com/CScorza/Data-Protection##rendersi-anonimi-nel-web)
+- [Messaggistica Sicura](https://github.com/CScorza/Data-Protection##messaggistica-sicura)
+- [Fonti](https://github.com/CScorza/Data-Protection##fonti-di-studio)
 
 |![gdpr_dati-min](https://user-images.githubusercontent.com/98583912/198056191-767370ec-17ee-4bec-9756-63e5645a287d.jpg)|![Phishing-cosè-620x378](https://user-images.githubusercontent.com/98583912/197875300-1c13d962-2523-450e-8fe3-baca1be36051.jpg)|
 | :--- | :--- |

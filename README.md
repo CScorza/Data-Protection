@@ -62,7 +62,7 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 ## Instragram 
 ![instagram](https://user-images.githubusercontent.com/98583912/197876001-bb48a403-9428-4637-a2a2-d588f5417d1c.jpeg)
 - Verificare che la persona che ci chiede aiuto sia realmente lui, chiamandolo al telefono.
-- [Verifiche d'instrusione Accaunt Social](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifiche-dinstrusione-accaunt-social)
+- [Verifiche d'instrusione account Social](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifiche-dinstrusione-accaunt-social)
 
 ## Email
 ![Immagine1](https://user-images.githubusercontent.com/98583912/198234928-b9d1600b-3706-4e21-894f-dc3124856650.gif)
@@ -125,12 +125,12 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 ![IP](https://user-images.githubusercontent.com/98583912/197974552-6abe33f6-511f-4734-ac00-da9bda9e576d.png)
 |Siti e Strumenti di Verifica ||||
 | :---: | :---: | :---: | :---: |
-| [BuiltWith](http://builtwith.com/) |[Intelx](https://intelx.io/) |  [Whois.net](http://whois.net/) | [Whois.domaintools](https://whois.domaintools.com/) |
-|[Follow](http://follow.net/) |[Researchtools](https://moz.com/researchtools/ose)|[Whoishostingthis](http://www.whoishostingthis.com/) |[Whoisology](https://whoisology.com/)|
-|[Greynoise](http://greynoise.io/) |[Securitytrails](https://securitytrails.com/dns-trails)|[Domainbigdata](https://domainbigdata.com/) |[Alexa](https://www.alexa.com/)|
-|[Webmeup](http://webmeup.com/) |[Shodan](https://www.shodan.io/)|[Clearwebstats](https://www.clearwebstats.com/) |[Ripe.net](https://www.ripe.net/manage-ips-and-asns/db)|
+| [BuiltWith](http://builtwith.com/) |[Intelx](https://intelx.io/)|[Whois.net](http://whois.net/)|[Whois.domaintools](https://whois.domaintools.com/)|
+|[Follow](http://follow.net/)|[Researchtools](https://moz.com/researchtools/ose)|[Whoishostingthis](http://www.whoishostingthis.com/) |[Whoisology](https://whoisology.com/)|
+|[Greynoise](http://greynoise.io/)|[Securitytrails](https://securitytrails.com/dns-trails)|[Domainbigdata](https://domainbigdata.com/) |[Alexa](https://www.alexa.com/)|
+|[Webmeup](http://webmeup.com/)|[Shodan](https://www.shodan.io/)|[Clearwebstats](https://www.clearwebstats.com/) |[Ripe.net](https://www.ripe.net/manage-ips-and-asns/db)|
 |[Website.informer](http://website.informer.com/) |[Sitereport.netcraft](https://sitereport.netcraft.com/)|[Whoxy](https://www.whoxy.com/)|
-|[Whois.com](http://whois.com/) |[Spyonweb](https://spyonweb.com/)|
+|[Whois.com](http://whois.com/)|[Spyonweb](https://spyonweb.com/)|
 
 ### Altri strumenti utili
 

@@ -179,6 +179,7 @@ Livelli di anonimato:
 |![Signal](https://user-images.githubusercontent.com/98583912/198038535-affb424e-06fa-449e-9c5a-6c1eecdf89a3.gif)|[Signal](https://signal.org/it/)|![Confide](https://user-images.githubusercontent.com/98583912/198038655-ae1df5e6-abc2-4ec8-93e5-c12fb943e554.gif)|[Confide](https://getconfide.com/)|
 |![Wire](https://user-images.githubusercontent.com/98583912/198038571-f4ed33cc-7ca1-4b0b-83b1-4c8f67c0a0f8.gif)|[Wire](https://wire.com/en/)|![Silent Phone](https://user-images.githubusercontent.com/98583912/198038675-77794fe6-14ef-4c17-85a9-72e98c6a681d.gif)|[Silent Phone](https://www.silentcircle.com/products-and-solutions/silent-phone/)|
 |![theema](https://user-images.githubusercontent.com/98583912/198038596-befe357f-9b08-402e-82e0-0bb379bcc12b.gif)|[Threema](https://threema.ch/en)|![Viber](https://user-images.githubusercontent.com/98583912/198038741-1cec9c9e-3fc5-455d-b91d-486c6f7b6754.gif)|[Viber](https://www.viber.com/it/)|
+|![Immagine1](https://user-images.githubusercontent.com/98583912/206864230-a2cb0221-90d7-4ec0-84a0-de8bd3783239.gif)|[Simplex](https://simplex.chat/#problem-explained)|![Immagine2](https://user-images.githubusercontent.com/98583912/206864167-22f20cd5-c6c9-40b1-ab92-4f441b700f41.gif)|[Session](https://getsession.org/)|
 |![Immagine27](https://user-images.githubusercontent.com/98583912/198049199-91f994bd-9c4e-4528-989b-48326bd58842.gif)|[ProtonMail](https://proton.me/it/mail)|
 
 

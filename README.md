@@ -56,7 +56,7 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 # Messaggi che possono trarre in inganno 
 
 ## SMS
-|![SMS](https://user-images.githubusercontent.com/98583912/197875975-26035274-9409-4611-a0ac-74b3b1a7b56b.jpeg)|![Senza titolo](https://user-images.githubusercontent.com/98583912/198233072-7d9ba437-84ed-4d5c-ba6e-6f88509994fc.jpg)|
+|![SMS](https://user-images.githubusercontent.com/98583912/197875975-26035274-9409-4611-a0ac-74b3b1a7b56b.jpeg)|![Senza titolo](https://user-images.githubusercontent.com/98583912/198233072-7d9ba437-84ed-4d5c-ba6e-6f88509994fc.jpg)
 
 - **Consigli** 
 - **Verifiche prima di cliccare nel link dalle fonti ufficiali (Banca, Servizio Postale, etc.)**

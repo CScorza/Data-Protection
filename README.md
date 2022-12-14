@@ -151,10 +151,10 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 
 # Rendersi Anonimi nel WEB
 
-Livelli di anonimato:
-- [**Basso**](https://github.com/CScorza/Protezione-dati-personalimd#basso)
-- [**Medio**](https://github.com/CScorza/Protezione-dati-personalimd#medio)
-- [**Alto**](https://github.com/CScorza/Protezione-dati-personalimd#alto)
+**Livelli di anonimato:**
+|[**Basso**](https://github.com/CScorza/Protezione-dati-personalimd#basso)|[**Medio**](https://github.com/CScorza/Protezione-dati-personalimd#medio)|[**Alto**](https://github.com/CScorza/Protezione-dati-personalimd#alto)|
+| :---: | :---: | :---: |
+
 
 ## Basso
 - **Navigazione in incognito** 

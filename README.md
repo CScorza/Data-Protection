@@ -173,7 +173,7 @@ Livelli di anonimato:
 
 ![Immagine10](https://user-images.githubusercontent.com/98583912/198006472-d5ceada0-9892-41ec-9a06-96cfb43ae565.gif)
 
-# Messaggistica ed Email Sicuri Sicura
+# Messaggistica ed Email Sicuri
 |![Telegram](https://user-images.githubusercontent.com/98583912/198037994-8c75e623-b981-4721-a3a5-583c30f5aa8d.gif)|[Telegram](https://web.telegram.org/?legacy=1#/login)|![Wickr](https://user-images.githubusercontent.com/98583912/198038627-20ac6310-e7c0-4332-921c-1508729934d9.gif)|[Wickr](https://wickr.com/)|
 | :---: | :---: | :---: | :---: |
 |![Signal](https://user-images.githubusercontent.com/98583912/198038535-affb424e-06fa-449e-9c5a-6c1eecdf89a3.gif)|[Signal](https://signal.org/it/)|![Confide](https://user-images.githubusercontent.com/98583912/198038655-ae1df5e6-abc2-4ec8-93e5-c12fb943e554.gif)|[Confide](https://getconfide.com/)|

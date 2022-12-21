@@ -166,9 +166,9 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 ![Immagine7](https://user-images.githubusercontent.com/98583912/197999274-d630079c-31ef-4ffe-aaba-272f9063b443.png)
 
 ## Medio
-|**Hardened browser**|**Browser Anonimi**|**Autenticazione a 2 Fattori**|**Password differenti per Accaunt e Complesse**|
-| :---:| :---: | :---: | :---: |
-|[**Waterfox**](https://www.waterfox.net/)|[**TOR Browser**](https://www.torproject.org/download/)|[**Guida CyberSecurity360**](https://www.cybersecurity360.it/legal/autenticazione-a-due-fattori-cose-come-e-perche-usarla-per-google-facebook-instagram-e-altri/)|[**Github/CScorza - Generatore di Password**](https://github.com/CScorza/Generatore-di-Password)|
+|**Browser Anonimi**|**Autenticazione a 2 Fattori**|**Password differenti per Accaunt e Complesse**|
+| :---: | :---: | :---: |
+|[**TOR Browser**](https://www.torproject.org/download/)|[**Guida CyberSecurity360**](https://www.cybersecurity360.it/legal/autenticazione-a-due-fattori-cose-come-e-perche-usarla-per-google-facebook-instagram-e-altri/)|[**Github/CScorza - Generatore di Password**](https://github.com/CScorza/Generatore-di-Password)|
 
 ![Immagine9](https://user-images.githubusercontent.com/98583912/198005692-55856b88-da9c-493b-a22e-ca425b56cdc7.gif)
 
@@ -177,7 +177,7 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 | :---: | :---: | :---: | :---: |
 |[**ProtonVPN**](https://protonvpn.com/it/)|[**Hide**](https://hide.me/en/proxy)|[**Oracle VM VirtualBox**](https://www.virtualbox.org/)|[**GitHub/CScorza - DistroForensics**](https://github.com/CScorza/DistroForensics#iso)|
 |[**NordVPN**](https://nordvpn.com/it/what-is-a-vpn/)|[**FilterbyPass**](https://www.filterbypass.me/it)|[**VMWARE - Workstation**](https://www.vmware.com/it/products/workstation-pro.html)||
-|[**Mullvad**](https://mullvad.net/it/)|[**Hidemy.Name**](https://hidemy.name/en/proxy-list/)|[**Hyper-V - Windows**](https://learn.microsoft.com/it-it/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)||
+||[**Hidemy.Name**](https://hidemy.name/en/proxy-list/)|[**Hyper-V - Windows**](https://learn.microsoft.com/it-it/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)||
 ||[**Aranzulla.it/Guida Server Proxy**](https://www.aranzulla.it/server-proxy-63922.html)|[**Kernel Virtual Machine - Ubuntu**](https://www.linux-kvm.org/page/Main_Page)||
 
 ![Immagine10](https://user-images.githubusercontent.com/98583912/198006472-d5ceada0-9892-41ec-9a06-96cfb43ae565.gif)

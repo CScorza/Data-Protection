@@ -1,5 +1,8 @@
 ![Immagine12](https://user-images.githubusercontent.com/98583912/199347592-8dde4e1c-d8c1-4c75-95ed-62598d9bf74d.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
+
 # Indice  
 
 |[**Cookie**](https://github.com/CScorza/Data-Protection#cookie)|

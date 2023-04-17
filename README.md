@@ -1,4 +1,4 @@
-![Immagine12](https://user-images.githubusercontent.com/98583912/199347592-8dde4e1c-d8c1-4c75-95ed-62598d9bf74d.gif)
+![Home](https://user-images.githubusercontent.com/98583912/232351708-9d35f15b-7c58-40ba-93ef-f33f6f8efac3.gif)
 
 [![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
 
@@ -69,16 +69,16 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 
 |**Verificare che la persona che ci chiede aiuto sia realmente lui, chiamandolo al telefono.**|
 | :---: |
-|[**Verifiche d'instrusione account Social**](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifiche-dinstrusione-accaunt-social)|
+|[**Verifiche d'instrusione account Social**](https://github.com/CScorza/Protezione-dati-personali#verifiche-dinstrusione-accaunt-social)|
 
 ## Email
 ![Immagine1](https://user-images.githubusercontent.com/98583912/198234928-b9d1600b-3706-4e21-894f-dc3124856650.gif)
 
 |**Ricordando che normalmente nessun Ente pubblico e privato, chiede informazioni personali tramite email e quindi verificare sempre dalle fonti ufficiali.**|
 | :---: |
-|[**Verifica Email**](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-email)|
-|[**Verifica Dominio IP**](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-dominio-ip)|
-|[**Verifica FIle**](https://github.com/CScorza/Protezione-dati-personali/edit/main/README.md#verifica-file)|
+|[**Verifica Email**](https://github.com/CScorza/Protezione-dati-personali#verifica-email)|
+|[**Verifica Dominio IP**](https://github.com/CScorza/Protezione-dati-personalid#verifica-dominio-ip)|
+|[**Verifica FIle**](https://github.com/CScorza/Protezione-dati-personali#verifica-file)|
 
 ### Strumenti di Verifica
 - **Quando ci troviamo di fronte a dei casi simili è bene fare delle verifiche, prima di rilasciare informazioni personali o dati sensibili.**
@@ -86,11 +86,16 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 |**Strumento di Verifica URL - FILE - Ricerca Domini IP**|
 | :---: |
 |[**VirusTotal**](https://www.virustotal.com/gui/home/upload)|
-   
+|[**DeHashed**](https://dehashed.com/)|   
 
-|**Controlla se la tua email o il tuo numero di telefono hanno subito una violazione di dati**|
+|**Controlla se la tua Email o il tuo numero di Telefono hanno subito una violazione di dati**|
 | :---: |
 |[**Have i Been Pwned?**](https://haveibeenpwned.com/)|
+|[**BreacDirectory**](https://breachdirectory.org/)|
+|[**BreacDirectory**](https://breachdirectory.org/)|
+|[**Sec.Hpi.de**](https://sec.hpi.de/ilc/search)|
+|[**Cyber Insurance**](https://www.cyberinsurance.com/)|
+|[**Leaked Domains**](https://leaked.domains/)|
 
 #### Verifiche d'instrusione Accaunt Social 
 - **Prevenzione del proprio Accaunt**
@@ -157,6 +162,14 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 **Livelli di anonimato:**
 |[**Basso**](https://github.com/CScorza/Protezione-dati-personalimd#basso)|[**Medio**](https://github.com/CScorza/Protezione-dati-personalimd#medio)|[**Alto**](https://github.com/CScorza/Protezione-dati-personalimd#alto)|
 | :---: | :---: | :---: |
+
+
+**Livello Protezione Password**
+
+|[**LeakedPassword**](https://leakedpassword.com/)|**Verifica se la tua Password è stata trapelata***|
+| :--- | :--- |
+
+![photo_2023-04-17_02-03-45](https://user-images.githubusercontent.com/98583912/232351193-1768fbf7-ec34-49aa-b31b-88beb2346329.jpg)
 
 
 ## Basso

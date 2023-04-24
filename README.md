@@ -152,10 +152,24 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 ### Altri strumenti utili
 
 #### Verifica codici Bancari
+
+![Immagine1](https://user-images.githubusercontent.com/98583912/233977148-806f8b3c-5d12-4f20-acf8-8aec0d5fe29a.gif)
+```
+- 2 Lettere rappresentano il Paese
+- 2 cifre di controllo, ossia il CIN EURO
+- Il Codice BBAN Nazionale (CIN + ABI + CAB + Numero di Controllo)
+Glorssario
+ABI = Assiciazione Bancaria Italiana
+CAB = Codice di Avviamento Bancanrio
+```
 |**IBAN**|**Conto Corrente**|**Codice Banca**|**Controllo Numero BIN**|
 | :---: | :---: | :---: | :---: |
 |[**Verifica IBAN**](https://it.ibancalculator.com/iban_validieren.html)|[**Verifica un conto corrente**](https://it.ibancalculator.com/validate_account_no.html)|[**Ricerca un codice banca o BIC**](https://it.ibancalculator.com/blz.html)|[**Free BIN Checker**](https://www.freebinchecker.com/amp?hl=it)
 
+**Money Transfer**
+```
+MTCN
+```
 
 # Rendersi Anonimi nel WEB
 

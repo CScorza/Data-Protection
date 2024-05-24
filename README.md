@@ -88,11 +88,14 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 |[**VirusTotal**](https://www.virustotal.com/gui/home/upload)|
 |[**DeHashed**](https://dehashed.com/)|   
 
-|**Controlla se la tua Email o il tuo numero di Telefono hanno subito una violazione di dati**|
-| :---: |
+![download](https://github.com/CScorza/Data-Protection/assets/98583912/364b2cd3-59f8-4f6c-a80a-b026206f6431)
+
+**Controlla se la tua Email o il tuo numero di Telefono hanno subito una violazione di dati**
+
 |[**Have i Been Pwned?**](https://haveibeenpwned.com/)|
+| :---: |
 |[**BreacDirectory**](https://breachdirectory.org/)|
-|[**BreacDirectory**](https://breachdirectory.org/)|
+|[**SynScan.net**](https://synscan.net/breaches)|
 |[**Sec.Hpi.de**](https://sec.hpi.de/ilc/search)|
 |[**Cyber Insurance**](https://www.cyberinsurance.com/)|
 |[**Leaked Domains**](https://leaked.domains/)|
@@ -149,9 +152,9 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 |[**Website.informer**](http://website.informer.com/)|[**Sitereport.netcraft**](https://sitereport.netcraft.com/)|[**Whoxy**](https://www.whoxy.com/)|
 |[**Whois.com**](http://whois.com/)|[**Spyonweb**](https://spyonweb.com/)|
 
-### Altri strumenti utili
+# Altri strumenti utili
 
-# Rendersi Anonimi nel WEB
+## Rendersi Anonimi nel WEB
 
 **Livelli di anonimato:**
 |[**Basso**](https://github.com/CScorza/Protezione-dati-personalimd#basso)|[**Medio**](https://github.com/CScorza/Protezione-dati-personalimd#medio)|[**Alto**](https://github.com/CScorza/Protezione-dati-personalimd#alto)|
@@ -199,7 +202,7 @@ dati finanziari o codici di accesso, fingendosi un ente affidabile in una comuni
 |![Wire](https://user-images.githubusercontent.com/98583912/198038571-f4ed33cc-7ca1-4b0b-83b1-4c8f67c0a0f8.gif)|[**Wire**](https://wire.com/en/)|![Silent Phone](https://user-images.githubusercontent.com/98583912/198038675-77794fe6-14ef-4c17-85a9-72e98c6a681d.gif)|[**Silent Phone**](https://www.silentcircle.com/products-and-solutions/silent-phone/)|
 |![theema](https://user-images.githubusercontent.com/98583912/198038596-befe357f-9b08-402e-82e0-0bb379bcc12b.gif)|[**Threema**](https://threema.ch/en)|![Viber](https://user-images.githubusercontent.com/98583912/198038741-1cec9c9e-3fc5-455d-b91d-486c6f7b6754.gif)|[**Viber**](https://www.viber.com/it/)|
 |![Immagine1](https://user-images.githubusercontent.com/98583912/206864230-a2cb0221-90d7-4ec0-84a0-de8bd3783239.gif)|[**Simplex**](https://simplex.chat/#problem-explained)|![Immagine2](https://user-images.githubusercontent.com/98583912/206864167-22f20cd5-c6c9-40b1-ab92-4f441b700f41.gif)|[**Session**](https://getsession.org/)|
-|![Immagine27](https://user-images.githubusercontent.com/98583912/198049199-91f994bd-9c4e-4528-989b-48326bd58842.gif)|[**ProtonMail**](https://proton.me/it/mail)|
+|![Immagine27](https://user-images.githubusercontent.com/98583912/198049199-91f994bd-9c4e-4528-989b-48326bd58842.gif)|[**ProtonMail**](https://proton.me/it/mail)|![download](https://github.com/CScorza/Data-Protection/assets/98583912/741f5f9a-a0ce-4f2d-b486-af19107f96e1)|[**Element**](https://element.io/)|
 
 
 # Fonti di studio
